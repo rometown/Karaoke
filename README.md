@@ -1,2 +1,2 @@
 # Karaoke
-Karaoke web application files
+Sharing some of my Bubbarome.com web page code.
